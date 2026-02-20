@@ -6,7 +6,7 @@ This repo runs an end-to-end RAG stack:
 - **Vector DB**: Weaviate
 - **Model serving**: Ollama (embeddings + generation)
 
-## Full Stack / Resume Highlights (FAANG-style)
+## Full Stack / Project Highlights (FAANG-style)
 
 **What this is:** a containerized, local-first semantic QA product that ingests **10+ scripture PDFs**, indexes them for vector search, and serves answers via a production-style API (including streaming).
 
