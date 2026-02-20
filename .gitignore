@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.DS_Store
+.deepeval/
+*.py[cod]
+*.log
+*.tmp
+
+# Large local corpora (keep out of git)
+Files/
+
+# Web build artifacts
+web/node_modules/
+web/dist/
+
+

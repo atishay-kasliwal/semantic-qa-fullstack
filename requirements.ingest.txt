@@ -1,0 +1,4 @@
+httpx>=0.26
+weaviate-client>=3.26
+PyMuPDF>=1.23
+
